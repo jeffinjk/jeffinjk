@@ -1,10 +1,10 @@
-<h1 align="left">Just a Beginner  ~😊</h1>
+<h4 align="right">Just a Beginner  ~😊</h4>
 
 ###
 
 <br clear="both">
 
-<p align="left">Jeffin Jacob | WebDev | CloudHead</p>
+<h1 align="center">Jeffin Jacob | WebDev | CloudHead</h1>
 
 ###
 
