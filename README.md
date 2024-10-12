@@ -1,4 +1,4 @@
-<h4 align="right">Just a Beginner  ~😊</h4>
+<h4 align="right">Just a Beginner ~😊</h4>
 
 ###
 
@@ -64,6 +64,14 @@
   <img src="https://streak-stats.demolab.com?user=jeffinjk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jeffinjk&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffinjk&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <figure>
+    <embed src="https://wakatime.com/share/@97ac9e89-12a1-4333-80e4-ef5096ab72e5/776bb3be-6081-48ce-b395-10be4cb985bb.svg"></embed>
+  </figure>
 </div>
 
 ###
